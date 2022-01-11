@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all">
+        <item>Clover Club</item>
+        <item>Aperol Spritz</item>
+        <item>Mai Tai</item>
+        <item>Old Fashioned</item>
+        <item>Asian Mule</item>
+        <item>Cosmopolitan</item>
+        <item>White Lady</item>
+        <item>Whiskey Sour</item>
+        <item>Orange Geranium Negroni</item>
+        <item>Cucumber Cooler</item>
+        <item>Mediteranean Mohito</item>
+    </string-array>
+
+    <string-array name="gin">
+        <item>Clover Club</item>
+        <item>White Lady</item>
+        <item>Cucumber Cooler</item>
+        <item>Orange&amp;Geranium Negroni</item>
+    </string-array>
+
+    <string-array name="shots">
+        <item>Hiroshima</item>
+        <item>B-52</item>
+        <item>Blowjob</item>
+        <item>Brain tumor</item>
+        <item>Jellyfish</item>
+    </string-array>
+
+    <string-array name="whiskey">
+        <item>Old Fashioned</item>
+        <item>Whiskey Sour</item>
+    </string-array>
+
+    <string-array name="vodka">
+        <item>Asian Mule</item>
+        <item>Cosmopolitan</item>
+    </string-array>
+    <string-array name="rum">
+        <item>Mai Tai</item>
+    </string-array>
+</resources>

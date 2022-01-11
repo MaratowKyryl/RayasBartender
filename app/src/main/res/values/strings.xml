@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Raya`s Bartender</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Raya`s Bartender</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Всички коктейли</string>
+    <string name="menu_gallery">Водка</string>
+    <string name="menu_slideshow">Джин</string>
+    <string name="menu_whiskey">Уиски</string>
+    <string name="menu_rum">Ром</string>
+
+    <string name="menu_shots">Шотове</string>
+    <string name="clover_club">
+        \t\t\t\t\t Clover Club\n \n
+    40 мл Whitley Neil Raspberry gin\n
+    20 мл Мартини Extra dry\n
+    30 мл сок лимон\n
+    20 мл сироп Малина\n
+    20 мл белтък\n
+    3-4 листчета босилек\n \n
+    Шейква се два пъти, първо без лед. Прецежда се през двойна цедка.\n
+    Чаша: купе.\n
+    Украса: дехидратирана ягода, листче босилек.</string>
+    <string name="aperol_spritz">
+        \t\t\t\t\t Aperol Spritz\n\n
+        50 мл Аперол\n
+        150 мл Просеко \n
+        50 мл сода\n\n
+        Слага се във чаша с лед.\n
+        Чаша: за вино.\n
+        Украса: половин резен портокал.</string>
+    <string name="mai_tai">
+    \t\t\t\t\t Mai Tai\n\n
+    30 мл Spice ром\n
+    30 мл черен ром\n
+    15 мл Трипл Сек\n
+    15 мл Orge сироп\n
+    25 мл сок лайм\n
+    1 даш Ангостура\n\n
+    Във чаша се слага лед, после допълва се със натрошен лед.\n
+    Метод: шейк.\n
+    Чаша: олд фешн.\n
+    Украса: връхче мента и портокалова кора.</string>
+    <string name="old_fashioned">
+        \t\t\t\t\t Old Fashioned\n\n
+    50 мл Craby Yardhead blendet malt whiskey\n
+    10 мл сироп от смокини(*)\n
+    2 даш ангостура битер\n
+    2 даш шоколадов битер\n\n
+    Разбърква се във mixing glass със лед.\n
+    Метод: стир.\n
+    Чаша: олд фешн.\n
+    Украса: портокалова кора.</string>
+    <string name="asian_mule">
+        \t\t\t\t\t Asian Mule \n\n
+        45 мл Русский Стандарт Платинум\n
+        20 мл сок лайм\n
+        10 мл лимонен Кордел\n
+        Допълва се със Крабис Джинжър бира\n\n
+        Метод: билд.\n
+        Чаша: Mule mug.
+    </string>
+    <string name="cosmopolitan">
+        \t\t\t\t\t Cosmopolitan\n\n
+        40 мл Русский Стандарт\n
+        30 мл сок лайм\n
+        30 мл сок боровинка\n
+        30 мл Трипъл Сек\n\n
+        Метод: шейк.\n
+        Чаша: купе.
+    </string>
+    <string name="white_lady">
+        \t\t\t\t\t White Lady\n\n
+        45 мл JJ Whitley London Dry джин\n
+        30 мл лимонен сок\n
+        20 мл Кордел Бял шоколад\n
+        10 мл Трипъл Сек\n
+        20 мл белтък\n\n
+        Шейква се два пъти, първо без лед.\n
+        Чаша: купе.\n
+        Украса: цветенце или дехидратиран лайм.
+    </string>
+    <string name="whiskey_sour">
+        \t\t\t\t\t Whiskey Sour\n\n
+        45 мл The Pogues Irish Whiskey\n
+        30 мл сок лимон\n
+        15 мл захарен сироп\n
+        30 мл белтък\n\n
+        Метод: шейк.\n
+        Чаша: олд фешн.\n
+        Украса: дехидратиран портокал или портокалова кора.\n
+        Отгоре със барна лъжица се слага 20 мл червено вино.\n\n
+        Съществуват още две рецепти на този коктейл. \nКласическата: без белтък и червено вино\nБостонска: без червено вино.
+    </string>
+    <string name="negroni">
+        \t\t\t\t\t Orange&amp;Geranium Negroni\n\n
+        25 мл Mary Le Bone Orange &amp; Geranium\n
+        25 мл Carpano Antica Formula\n
+        25 мл Carpano Bitter or Campary\n
+        2 даш портокалов битер\n\n
+        Смесва се със лед в mixing glass.\n
+        Метод: стир.\n
+        Чаша: олд фешн.\n
+        Украса: портокалова кора.
+    </string>
+    <string name="cucumber_cooler">
+        \t\t\t\t\t Cucumber Cooler\n\n
+        45 мл Whitley Neill Aloe&amp;Cucumber джин\n
+        30 мл напитка Алое Вера\n
+        5-10 мл сок лайм\n
+        Тоник догоре\n\n
+        Метод: билд.\n
+        Чаша: купе.\n
+        Украса: парченце от краставица.
+    </string>
+    <string name="mediteranian_mohito">
+        \t\t\t\t\t Mediteranean Mohito\n\n
+        50 мл Скинос\n
+        20 мл лимонен сок\n
+        10 мл захарен сироп\n
+        Тоник догоре\n\n
+        Във висока чаша първо се слагат 4 резени парченца лимон, 3-4 листа босилек, натрошен лед. После отгоре всичките съставки.\n
+        Метод: билд.\n
+        Чаша: хайбол.\n
+        Украса: лист босилек или кора от лимон.
+    </string>
+    <string name="hiroshima">
+        \t\t\t\t\t Hiroshima\n\n
+        20 мл Самбука\n
+        10 мл Бейлис\n
+        20 мл Абсент\n
+        5 мл Гренадин\n\n
+        Слага се на шарове, отгоре 5-6 капки сироп Гренадин.
+    </string>
+    <string name="b52">
+        \t\t\t\t\t B-52\n\n
+        15 мл Калуа\n
+        15 мл Бейлис\n
+        15 мл Куанро или Трипъл Сек\n\n
+        Във равни части слагат се на шарове със барна лъжичка.
+    </string>
+    <string name="blowjob">
+        \t\t\t\t\t Blowjob\n\n
+        15 мл Амаретто или бадемов сироп\n
+        15 мл Бейлис\n
+        Шапка бита сметана\n\n
+        По желане на клиента амаретто може да се замести със водка.
+    </string>
+    <string name="tumor_brain">
+        \t\t\t\t\t Brain Tumor\n\n
+        20 мл бял вермут (Мартини Bianco)\n
+        10 мл Бейлис\n
+        20 мл водка\n
+        5 мл Гренадин\n\n
+        Във бял вермут бавно се налива Бейлис. Гренадин се слага за кървав цвят.
+    </string>
+    <string name="jellyfish">
+        \t\t\t\t\t Jellyfish\n\n
+        15 мл кокосов ликьор\n
+        15 мл Куантро\n
+        15 мл светъл ром\n
+        2-3 капки Бейлис\n
+        1 капка Блю Курасао\n\n
+        Кокосов ликьор, Куантро и ром се слагат на шарове.
+    </string>
+</resources>

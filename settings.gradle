@@ -1,0 +1,3 @@
+include ':Raya`sBartender'
+include ':app'
+rootProject.name = "Raya`s Bartender"

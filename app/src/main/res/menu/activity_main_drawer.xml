@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@android:drawable/alert_dark_frame"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@android:drawable/alert_dark_frame"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@android:drawable/alert_dark_frame"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_whiskey"
+            android:icon="@android:drawable/alert_dark_frame"
+            android:title="@string/menu_whiskey" />
+        <item
+            android:id="@+id/nav_rum"
+            android:icon="@android:drawable/alert_dark_frame"
+            android:title="@string/menu_rum"/>
+        <item
+            android:id="@+id/nav_shots"
+            android:icon="@android:drawable/alert_dark_frame"
+            android:title="@string/menu_shots" />
+    </group>
+</menu>
